@@ -6,7 +6,7 @@ import ReactGA from 'react-ga';
 
 // Layouts
 import LayoutDefault from './layouts/LayoutDefault';
-
+//
 // Views 
 import Home from './views/Home';
 
